@@ -1,0 +1,2 @@
+# EqQuanto
+The quanto feature of such options allows an investor to participate in the return of an industrial or economic sector with an international exposure without the foreign exchange risk exposure. It means that the underlying instrument price is in one currency, while payments are denominated in another currency. Such a feature allows counterparties to take advantage of global underlying instrument returns without incurring currency exposures.

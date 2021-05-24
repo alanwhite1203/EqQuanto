@@ -20,7 +20,11 @@ The forward quanto price under discrete dividend is given by
 Under the risk-neutral measure, Fj = E[Sj ] ; in particular, the forward quanto prices reflect the risk-free interest rate and any dividend yield (positive or negative) on the underlying asset.
 
 
-Reference:
-https://finpricing.com/lib/EqBinary.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY
+
 
 
